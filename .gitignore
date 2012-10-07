@@ -1,8 +1,9 @@
 *.class
 .classpath
 .project
+.metadata
 .settings/
 target/
-
-
 .DS_Store
+*.xmi
+*~
